@@ -15,7 +15,7 @@
     <p class="lead">My games from GAME 601 - Game Prototyping at American University in Fall 2021</p>
   </div>
   <div class="card">
-    <div class="card-header h3">Game Modification: YOUR TITLE HERE</div>
+    <div class="card-header h3">Game Modification: Social Numbers Game</div>
     <div class="card-body row">
       <div class="col-4">
         <img class="img-fluid" src="unidog.png">
@@ -24,7 +24,7 @@
         REPLACE THIS WITH YOUR DESCRIPTION PARAGRAPH
       </div>
       <div class="col-2">
-        <a class="btn btn-primary btn-block" href="FILE_NAME_OF_YOUR_PLAYABLE_GAME_OR_RULES_FOR_YOUR_GAME.pdf" role="button">PLAY</a>
+        <a class="btn btn-primary btn-block" href="socialnumbersgame.pdf" role="button">PLAY</a>
       </div>
     </div>
   </div>
@@ -42,20 +42,7 @@
       </div>
     </div>
   </div>
-  <div class="card">
-    <div class="card-header h3">Hypertext Fiction: YOUR TITLE HERE</div>
-    <div class="card-body row">
-      <div class="col-4">
-        <img class="img-fluid" src="FILE_NAME_OF_IMAGE">
-      </div>
-      <div class="col-6">
-        REPLACE THIS WITH YOUR DESCRIPTION PARAGRAPH
-      </div>
-      <div class="col-2">
-        <a class="btn btn-primary btn-block" href="./twine/index.html" role="button">PLAY</a>
-      </div>
-    </div>
-  </div>
+  
   <div class="card">
     <div class="card-header h3">Interactive Fiction: YOUR TITLE HERE</div>
     <div class="card-body row">
@@ -80,7 +67,7 @@
         REPLACE THIS WITH YOUR DESCRIPTION PARAGRAPH
       </div>
       <div class="col-2">
-        <a class="btn btn-primary btn-block" href="../p5/index.html" role="button">PLAY</a>
+        <a class="btn btn-primary btn-block" href="../p5/magicSnail/index.html" role="button">PLAY</a>
       </div>
     </div>
   </div>
