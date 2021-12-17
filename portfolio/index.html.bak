@@ -44,13 +44,13 @@
   </div>
   
   <div class="card">
-    <div class="card-header h3">Interactive Fiction: YOUR TITLE HERE</div>
+    <div class="card-header h3">Interactive Fiction: Beep</div>
     <div class="card-body row">
       <div class="col-4">
         <img class="img-fluid" src="FILE_NAME_OF_IMAGE">
       </div>
       <div class="col-6">
-        REPLACE THIS WITH YOUR DESCRIPTION PARAGRAPH
+        Beep is a simple piece of interactive fiction made using Inform 7. You awaken in a mysterious patch of grass with no idea where you are or why you're there. You hear a foreboding beeping noise in the background...
       </div>
       <div class="col-2">
         <a class="btn btn-primary btn-block" href="../inform/play.html" role="button">PLAY</a>
