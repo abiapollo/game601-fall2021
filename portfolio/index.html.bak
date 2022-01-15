@@ -78,7 +78,7 @@
         <img class="img-fluid" src="blankOutline.png">
       </div>
       <div class="col-6">
-        Blank is a piece of interactive fiction made in Twine (Harlowe). It places the player in the perspective of an amnesiac with no memories or sense of identities. Player choice impacts which one of three people in the main character's life (all with vastly different relationships to them) they begin to rediscover their identity with, various dialogue and narrative beats, and the tone of the ending. It is currently a work in progress, currently including over 25K words and utilizing various twine features, such as complex variables. It will be actively updated as progress is made.
+        Blank is a piece of interactive fiction made in Twine (Harlowe). It places the player in the perspective of an amnesiac with no memories or sense of identity. Player choice impacts which one of three people in the main character's life (all with vastly different relationships to them) they begin to rediscover their identity with, various dialogue and narrative beats, and the tone of the ending. It is currently a work in progress, currently including over 25K words and utilizing various twine features, such as complex variables. It will be actively updated as progress is made.
       </div>
       <div class="col-2">
         <a class="btn btn-primary btn-block" href="../final/index.html" role="button">PLAY</a>
